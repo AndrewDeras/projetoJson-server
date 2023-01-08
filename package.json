@@ -1,0 +1,29 @@
+{
+  "name": "projeto_json_server",
+  "version": "1.0.0",
+  "description": "Projeto individual - Modulo 3",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewDeras/projetoJson-server.git"
+  },
+  "keywords": [
+    "Resilia",
+    "-",
+    "Senac",
+    "-",
+    "jsonServer"
+  ],
+  "author": "AndrewDeras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewDeras/projetoJson-server/issues"
+  },
+  "homepage": "https://github.com/AndrewDeras/projetoJson-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
